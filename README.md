@@ -19,6 +19,8 @@
     width="50%"
     >
   
+  <br/><br/>
+  
   <h2>How to reach me</h2>
   <div style="display:flex;justify-content:center;align-items:center;">
   <a href="https://www.linkedin.com/in/marcos-filipe/">
