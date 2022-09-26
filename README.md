@@ -24,7 +24,10 @@
   <h2>How to reach me</h2>
   <div style="display:flex;justify-content:center;align-items:center;">
   <a href="https://www.linkedin.com/in/marcos-filipe/">
-  <img src="https://img.shields.io/badge/Marcos%20Filipe-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue"/></a>  
+  <img src="https://img.shields.io/badge/Marcos%20Filipe-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue" alt="LinkedIn badge"/></a>    
+  <br/>
   <a href="mailto:mfilipe.rb@gmail.com">
-  <img src="https://img.shields.io/badge/mfilipe.rb@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"/>
+  <img src="https://img.shields.io/badge/mfilipe.rb@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" alt="Gmail badge: mfilipe.rb@gmail.com"/></a>  
+  <br/>
+  <a href="https://github.com/CTRLMarcws"><img src ="https://img.shields.io/badge/CTRLMarcws-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white" alt="GitHub badge"/></a> ⁻ ᵒˡᵈ/ˢᵗᵘᵈʸ ᵃᶜᶜᵒᵘⁿᵗ
   </div>
