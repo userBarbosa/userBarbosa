@@ -9,7 +9,7 @@
 
 <br /><br />
 
-<a href="https://app.daily.dev/userBarbosa"><img src="https://github.com/userBarbosa/userBarbosa/blob/main/devcard.svg"
+<a href="https://app.daily.dev/userbarbosa"><img src="https://github.com/userBarbosa/userBarbosa/blob/main/devcard.svg"
     width="35%" alt="Marcos Barbosa's Dev Card" align="left" /></a>
 
 <h2>Metrics</h2>
