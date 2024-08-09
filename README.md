@@ -1,9 +1,7 @@
 <h1> Hi there! 👋 </h1>
 
 :billed_cap: - I'm Marcos Barbosa, a student from São Paulo (:brazil:).<br />
-:tophat: - I’m currently working at <a href="https://finanzero.com.br/"><img
-    src="https://finanzero.com.br/images/logo-finanzero-600.png" alt="FinanZero"
-    style="vertical-align:middle;height:20px;" /></a>.<br />
+:tophat: - I’m currently looking for a job.<br />
 :mortar_board: - Technologist in System Analysis and Development from <a href="http://www.fateczl.edu.br/"><img
     src="https://fateczl.edu.br/engetec/imagem/FATEC_ZONA_LESTE.png" height=20px alt="FATEC ZL" /></a>.<br />
 
@@ -30,12 +28,6 @@
       src="https://img.shields.io/badge/mfilipe.rb@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red"
       alt="Gmail badge: mfilipe.rb@gmail.com" />
   </a>
-  <br />
-  <a href="https://github.com/CTRLMarcws">
-    <img
-      src="https://img.shields.io/badge/CTRLMarcws-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white"
-      alt="GitHub badge" />
-  </a> ⁻ ᵒˡᵈ/ˢᵗᵘᵈʸ ᵃᶜᶜᵒᵘⁿᵗ
   <br />
   <a href="https://stackoverflow.com/users/20104016/marcos-barbosa">
     <img
