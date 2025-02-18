@@ -1,7 +1,7 @@
 <h1> Hi there! 👋 </h1>
 
 :billed_cap: - I'm Marcos Barbosa, a student from São Paulo (:brazil:).<br />
-:tophat: - I’m currently looking for a job.<br />
+:tophat: - Currently working at <a href="https://performait.com/en/">PerformaIT</a> as a BackEnd Developer.<br />
 :mortar_board: - Technologist in System Analysis and Development from <a href="http://www.fateczl.edu.br/"><img
     src="https://fateczl.edu.br/engetec/imagem/FATEC_ZONA_LESTE.png" height=20px alt="FATEC ZL" /></a>.<br />
 
